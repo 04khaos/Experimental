@@ -15,7 +15,7 @@ void desafio();
    - Bits: para trabajar con operaciones a nivel de bits (AND, OR, desplazamientos) */
 
 void operadores() {
-
+    
     // Operadores Aritméticos
     printf("== Operadores Aritméticos ==\n");
     int a = 5, b = 10, c = 5; // Variables globales de la función
