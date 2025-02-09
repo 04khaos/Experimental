@@ -153,7 +153,6 @@ void condicionales() {
     default:
         printf("Error: Rol no reconocido. Verifica el valor asignado\n\n");
    }
-
 }
 
 
