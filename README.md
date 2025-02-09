@@ -1,2 +1,0 @@
-# Experimental
-Proyectos y experimentos. 
